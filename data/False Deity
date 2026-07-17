@@ -1,0 +1,21 @@
+{
+    "id": 145066396,
+    "name": "Time Memory 2 0",
+    "author": "ReversePolarity",
+    "creators": ["Nebulaic"],
+    "verifier": "Nebulaic",
+    "verification": "https://www.youtube.com/watch?v=rwhkaPRwj9U",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "TedTedTedTed",
+            "percent": 100,
+            "hz": 240
+
+           "user": "CharlesGaming75",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
