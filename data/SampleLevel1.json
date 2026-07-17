@@ -1,18 +1,17 @@
 {
-    "id": 144996611,
-    "name": "Homer Let The Barts",
-    "author": "TedTedTedTed",
-    "creators": ["TedTedTedTed"],
-    "verifier": "TedTedTedTed",
-    "verification": "https://www.youtube.com/watch?v=xKpFGOnHvQk",
+    "id": 145026088,
+    "name": "Domer Let Homer Out",
+    "author": "CharlesGaming75",
+    "creators": ["CharlesGaming75"],
+    "verifier": "CharlesGaming75",
+    "verification": "https://www.youtube.com/watch?v=7LjkHmwiWOw"
     "percentToQualify": 100,
-    "password": "None",
+    "password": "Free To Copy",
     "records": [
         {
-            "user": "None",
-            "link": "Nothing",
-            "percent": 0,
-            "hz": 0
+            "user": "TedTedTedTed",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
