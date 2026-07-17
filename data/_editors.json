@@ -1,27 +1,28 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "TedTedTedTed",
+        "link": "https://www.youtube.com/@TedTedTedTed.GeometryDash"
     },
     {
         "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Charles.K",
+        "link": "https://www.youtube.com/@Charles.k-z7o"
+"
     },
     {
         "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Charles.K",
+        "link": "https://www.youtube.com/@Charles.k-z7o"
     },
     {
-        "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "role": "Tester",
+        "name": "Nobody",
+        "link": "Nothing"
     },
     {
         "role": "dev",
-        "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "TedTedTedTed",
+        "link": "https://www.youtube.com/@TedTedTedTed.GeometryDash"
     }
 ]
