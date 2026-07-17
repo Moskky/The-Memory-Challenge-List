@@ -1,24 +1,22 @@
 {
-    "id": 57436521,
-    "name": "None",
-    "author": "Different Publisher",
-    "creators": ["Solo_Creator"],
-    "verifier": "Solo_Creator",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "id": 144996611,
+    "name": "Homer Let The Barts",
+    "author": "TedTedTedTed",
+    "creators": ["TedTedTedTed"],
+    "verifier": "TedTedTedTed",
+    "verification": "https://www.youtube.com/watch?v=xKpFGOnHvQk",
     "percentToQualify": "100",
-    "password": "46290",
+    "password": "Free To Copy",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
+            "user": "None",
+            "percent": 0,
+            "hz": 0
         },
         {
-            "user": "Sample_Victor_2",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 120
+            "user": "None",
+            "percent": 0,
+            "hz": 0
         }
     ]
 }
