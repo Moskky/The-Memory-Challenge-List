@@ -1,0 +1,17 @@
+{
+    "id": 145141541,
+    "name": "Wither",
+    "author": "Korevix",
+    "creators": ["Korevix"],
+    "verifier": "Korevix",
+    "verification": "https://www.youtube.com/watch?v=Uja_Nv2CaHc",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "TedTedTedTed",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
