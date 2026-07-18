@@ -1,1 +1,17 @@
-
+{
+    "id": 145094453,
+    "name": "Sever",
+    "author": "Korevix",
+    "creators": ["Korevix"],
+    "verifier": "Korevix",
+    "verification": "https://www.youtube.com/watch?v=8Vigp3Gotws",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "None",
+            "percent": 0,
+            "hz": 0
+        }
+    ]
+}
