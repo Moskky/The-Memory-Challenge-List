@@ -1,0 +1,17 @@
+{
+    "id": 145214160,
+    "name": "Black",
+    "author": "TedTedTedTed",
+    "creators": ["TedTedTedTed"],
+    "verifier": "TedTedTedTed",
+    "verification": "https://www.youtube.com/watch?v=5PT4gVHtfoc",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "None",
+            "percent": 0,
+            "hz": 0
+        }
+    ]
+}
