@@ -1,0 +1,17 @@
+{
+    "id": 145335202,
+    "name": "Iceball",
+    "author": "RayoNz",
+    "creators": ["RayoNz"],
+    "verifier": "RayoNz",
+    "verification": "https://www.youtube.com/watch?v=aRCTfaNsbvw",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "None",
+            "percent": 0,
+            "hz": 0
+        }
+    ]
+}
