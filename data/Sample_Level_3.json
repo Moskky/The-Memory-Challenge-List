@@ -17,6 +17,11 @@
             "user": "Nebulaic",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "RayoNz",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
