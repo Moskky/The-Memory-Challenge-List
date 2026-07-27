@@ -17,6 +17,11 @@
             "user": "TedTedTedTed",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "RIVE",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
