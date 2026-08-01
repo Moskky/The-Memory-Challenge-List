@@ -1,1 +1,17 @@
-
+{
+    "id": 145214160,
+    "name": "FREED",
+    "author": "Korevix",
+    "creators": ["Korevix"],
+    "verifier": "Korevix",
+    "verification": "https://www.youtube.com/watch?v=5PT4gVHtfoc",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "RIVE",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
