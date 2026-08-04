@@ -9,9 +9,9 @@
     "password": "Free To Copy",
     "records": [
         {
-            "user": "TedTedTedTed",
-            "percent": 100,
-            "hz": 240
+            "user": "None",
+            "percent": 0,
+            "hz": 0
         }
     ]
 }
