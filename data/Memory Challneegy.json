@@ -12,6 +12,16 @@
             "user": "TedTedTedTed",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Texas",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Leyvora",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
