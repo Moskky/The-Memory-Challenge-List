@@ -37,6 +37,11 @@
             "user": "Texas",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Texas",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
