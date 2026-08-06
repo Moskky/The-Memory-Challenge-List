@@ -12,6 +12,11 @@
             "user": "RIVE",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Texas",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
