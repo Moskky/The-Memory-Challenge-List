@@ -12,6 +12,11 @@
             "user": "Texas",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "NotEliteGD",
+            "percent": 100,
+            "hz": 165
         }
     ]
 }
