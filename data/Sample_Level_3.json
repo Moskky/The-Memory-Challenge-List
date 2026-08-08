@@ -43,5 +43,10 @@
             "percent": 100,
             "hz": 100
         }
+        {
+            "user": "Turtle",
+            "percent": 100,
+            "hz": 120
+        }
     ]
 }
