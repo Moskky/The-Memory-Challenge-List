@@ -12,6 +12,11 @@
             "user": "NotEliteGD",
             "percent": 100,
             "hz": 165
+        },
+        {
+            "user": "RIVE",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
