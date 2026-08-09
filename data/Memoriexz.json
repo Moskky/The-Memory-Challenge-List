@@ -17,6 +17,11 @@
             "user": "NotEliteGD",
             "percent": 100,
             "hz": 165
+        },
+        {
+            "user": "Turtle",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }
