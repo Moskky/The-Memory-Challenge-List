@@ -17,6 +17,11 @@
             "user": "Surreeaal",
             "percent": 100,
             "hz": 180
+        },
+        {
+            "user": "Turtle",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }
