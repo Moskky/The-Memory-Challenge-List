@@ -1,1 +1,17 @@
-
+{
+    "id": ,
+    "name": "Golden Memory",
+    "author": "Catatrophy",
+    "creators": ["Catatrophy"],
+    "verifier": "Leyvora",
+    "verification": "",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "None",
+            "percent": 0,
+            "hz": 0
+        }
+    ]
+}
