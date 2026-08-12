@@ -32,6 +32,11 @@
             "user": "BaconTrapperGD",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "Turtle",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }
