@@ -27,6 +27,11 @@
             "user": "NotEliteGD",
             "percent": 100,
             "hz": 165
+        },
+        {
+            "user": "BaconTrapperGD",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
