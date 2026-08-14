@@ -12,6 +12,11 @@
             "user": "None",
             "percent": 0,
             "hz": 0
+        },
+        {
+            "user": "BaconTrapperGD",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
