@@ -22,6 +22,11 @@
             "user": "Leyvora",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "BaconTrapperGD",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
