@@ -1,1 +1,17 @@
-
+{
+    "id": 146880740,
+    "name": "Jumpy Jumpy",
+    "author": "NotEliteGD",
+    "creators": ["NotEliteGD"],
+    "verifier": "NotEliteGD",
+    "verification": "https://drive.google.com/file/d/1gNpvpZMylmhYYSoC_L_TjvxTE2drso44/view",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "None",
+            "percent": 0,
+            "hz": 0
+        }
+    ]
+}
