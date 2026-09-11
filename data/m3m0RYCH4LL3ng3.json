@@ -5,7 +5,7 @@
     "creators": ["Leyvora"],
     "verifier": "Leyvora",
     "verification": "https://www.youtube.com/watch?v=7uNkHzuTtP8",
-    "Memory": "Medium-Heavy",
+    "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
         {
